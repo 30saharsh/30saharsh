@@ -13,10 +13,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30saharsh&hide_progress=true)](https://github.com/30saharsh/github-readme-stats)
-
-<a href="https://github.com/30saharsh/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=30saharsh&repo=github-readme-stats](https://github.com/30saharsh/Real-Time-Weather-Info-Using-Node.js.git)" />
-</a>
-<a href="https://github.com/30saharsh/convoychat">
-  <img align="center" src="https://github.com/30saharsh/Authenticated-Login-Signup-Using-Node.js.git" />
-</a>
