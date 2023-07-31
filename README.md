@@ -1,8 +1,7 @@
 ## Hi there Let's Connect !!👋
 
-- 🔭 I’m currently working on Backend Development (Node.js)
-- 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on Node Projects 
+- 🔭 MERN Stack Developer Actively Looking for opportunities .
+- 👯 I’m looking to collaborate on Full Stack Projects 
 - 🤔 I’m looking for a great Development Team for collaborative Projects !! 
 - 💬 Ask me about Developing new Softwares !!!
 - 📫 How to reach me: Contact me at saharshshrivastava302002@gmail.com
