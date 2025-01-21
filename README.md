@@ -1,9 +1,19 @@
 ## Hi there my Name is Saharsh Shrivastava !!👋
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+---
 
-- 🔭 MERN Stack Developer Actively Looking for opportunities.
-- 📫 How to reach me: Contact me at saharshshrivastava302002@gmail.com
+## 💻 About Me
+
+```javascript
+const aboutMe = {
+  name: "Saharsh Shrivastava",
+  role: "MERN Stack Developer Actively Looking for opportunities.",
+  skills: ["Node.js", "Express", "MongoDB", "MySQL", "Python", "Java", "Docker", "Kubernetes"],
+  passion: "Building reliable and efficient server-side applications.",
+  motto: "Code with passion, deploy with confidence!"
+};
+```
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
@@ -12,27 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30saharsh&hide_progress=true)](https://github.com/30saharsh/github-readme-stats)
 
----
-
-# Hi there, I'm SuryaHadi21 👋
-
-Welcome to my GitHub profile! I'm a passionate Backend Developer and an advocate for clean, scalable code. I love solving complex problems and continuously improving my skills.
-
-## 💻 About Me
-
-```javascript
-const aboutMe = {
-  name: "Surya Hadi",
-  role: "Backend Developer",
-  skills: ["Node.js", "Express", "MongoDB", "MySQL", "Python", "Java", "Docker", "Kubernetes"],
-  passion: "Building reliable and efficient server-side applications.",
-  motto: "Code with passion, deploy with confidence!"
-};
-```
-
-## ✨ My Work Animation Logo
-
-![My Logo](https://cdn.jsdelivr.net/gh/your-username/your-repo-name@latest/logo.gif)
 
 ## 🚀 My Tech Stack
 
